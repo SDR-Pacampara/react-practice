@@ -1,0 +1,15 @@
+hi {
+    font-size: 56px;
+}
+
+.comtainer {
+    width: 100px;
+    height: 100px;
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
