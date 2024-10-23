@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import Button from './Components/Button';
 
-function App() {
+/* function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +21,14 @@ function App() {
       </header>
     </div>
   );
-}
+} */
 
 export default App;
+
+function App() {
+  return (
+    <div>
+      <Button />
+    </div>
+  );
+}
